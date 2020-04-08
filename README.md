@@ -1,6 +1,4 @@
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/图片3.png" width = 577/>
-</div>
+<div align=center><img width="207" height="207" src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/图片3.png"/></div>
 
 # AES-Dataset
 
