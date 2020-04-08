@@ -1,10 +1,10 @@
+![](https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200408234546.png)
+
 # AES-Dataset
 
 > A dataset that contains topic instruction and related essays in Chinese collected from Chinese high school.
 
 ## Getting Started
-
----
 
 - `scores.txt` is the directory of the dataset, containing the number, the title, and the score of each essay.
 - Folder `/essays` contains essays from `A-0001` to `A-0300`.
@@ -12,27 +12,19 @@
 
 ## Note
 
----
-
 - The last line of the article may be blank.
 
 - The rating is subjective.
 
 ## Collector
 
----
-
 - [Haojin Li](https://lihaojin.cn)
 
 ## License
 
----
-
 This dataset is licensed under the Apache License - see the [LICENSE.md](https://github.com/declan-haojin/AES-Dataset/blob/master/LICENSE) file for details
 
 ## Acknowledgments
-
----
 
 - Mentor Dr. Dai
 - All Haojin's classmates and friends who provide the amazing essays!
@@ -41,7 +33,5 @@ This dataset is licensed under the Apache License - see the [LICENSE.md](https:/
 - GitHub
 
 ## Contributing
-
----
 
 Welcome anyone who has formatted and rated essays in Chinese to submitting pull requests.
