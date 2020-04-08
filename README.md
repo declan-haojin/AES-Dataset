@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200408234546.png)
+<div align=center>![](https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/图片3.png)
 
 # AES-Dataset
 
@@ -22,7 +22,7 @@
 
 ## License
 
-This dataset is licensed under the Apache License - see the [LICENSE.md](https://github.com/declan-haojin/AES-Dataset/blob/master/LICENSE) file for details
+This dataset is licensed under the MIT License - see the [LICENSE.md](https://github.com/declan-haojin/AES-Dataset/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
