@@ -22,7 +22,7 @@
 
 ## License
 
-This dataset is licensed under the MIT License - see the [LICENSE.md](https://github.com/declan-haojin/AES-Dataset/blob/master/LICENSE) file for details
+This dataset is licensed under the MIT License - see the [LICENSE.md](https://github.com/declan-haojin/AES-Dataset/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -34,4 +34,4 @@ This dataset is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Contributing
 
-Welcome anyone who has formatted and rated essays in Chinese to submitting pull requests.
+Welcome anyone who has formatted and rated essays in Chinese to submit pull requests.
