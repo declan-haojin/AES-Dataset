@@ -1,4 +1,6 @@
-<div align=center>![](https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/图片3.png)
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/图片3.png" width = 77%/>
+</div>
 
 # AES-Dataset
 
